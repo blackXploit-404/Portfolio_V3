@@ -1,0 +1,37 @@
+.not-found-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .not-found-code {
+    font-size: 6rem;
+    font-weight: bold;
+    color: #9b59b6; /* Adjust this color to fit your theme */
+    margin: 0;
+  }
+  
+  .not-found-text {
+    font-size: 1.5rem;
+    margin-top: 0.5rem;
+    color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .not-found-home-button {
+    margin-top: 1.5rem;
+    padding: 0.75rem 1.5rem;
+    background-color: #6c63ff; /* Button background color */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .not-found-home-button:hover {
+    background-color: #aea7ee; /* Hover effect for button */
+  }
+  
