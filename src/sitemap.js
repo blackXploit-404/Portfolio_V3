@@ -2,7 +2,7 @@ const { SitemapStream, streamToPromise } = require('sitemap');
 const { createWriteStream } = require('fs');
 const { Readable } = require('stream');
 
-const hostname = 'https://www.rahulbhatija.com'; // Replace with your main domain
+const hostname = 'https://www.surajitsen.me'; // Replace with your main domain
 const links = [
   { url: '/', changefreq: 'daily', priority: 1.0 },
   { url: '/project', changefreq: 'monthly', priority: 0.8 },

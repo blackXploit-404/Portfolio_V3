@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: https://www.rahulbhatija.com/sitemap_index.xml
+Sitemap: https://www.surajitsen.me/sitemap_index.xml
